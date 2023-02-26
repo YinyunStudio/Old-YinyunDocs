@@ -23,12 +23,6 @@ module.exports = {
 
             '/about/': [
                 ['', '关于']
-            ],
-      
-            // fallback
-            '/': [
-              ['', '阴云文档'],
-              ['about', '关于']
             ]
         },
         displayAllHeaders: true, // 默认值：false
