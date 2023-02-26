@@ -1,0 +1,23 @@
+{
+  "name": "yinyundocs",
+  "version": "0.0.1",
+  "description": "阴云文档",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "set NODE_OPTIONS=--openssl-legacy-provider & vuepress dev docs --temp .temp",
+    "docs:build": "set NODE_OPTIONS=--openssl-legacy-provider & vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XiaohCeale/YinyunDocs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/XiaohCeale/YinyunDocs/issues"
+  },
+  "homepage": "https://github.com/XiaohCeale/YinyunDocs#readme",
+  "devDependencies": {
+    "vuepress": "^1.9.9"
+  }
+}
