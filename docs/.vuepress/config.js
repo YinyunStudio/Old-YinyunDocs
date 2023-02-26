@@ -14,28 +14,21 @@ module.exports = {
         ],
         sidebar: {
             '/yinyunskin/': [
-              ['', '阴云皮肤'],     /* /foo/ */
-              ['', '阴云皮肤'],  /* /foo/one.html */
-              ['', '阴云皮肤']   /* /foo/two.html */
+              ['', '阴云皮肤']
             ],
       
             '/twobluecube/': [
-              '',      /* /bar/ */
-              'three', /* /bar/three.html */
-              'four'   /* /bar/four.html */
+              ['', '渐蓝方块']
             ],
 
             '/about/': [
-                ['', '关于'],
-                'one/',
-                'two/',
+                ['', '关于']
             ],
       
             // fallback
             '/': [
-              '',        /* / */
-              'contact', /* /contact.html */
-              'about'    /* /about.html */
+              ['', '阴云文档'],
+              ['about', '关于']
             ]
         },
         displayAllHeaders: true, // 默认值：false
