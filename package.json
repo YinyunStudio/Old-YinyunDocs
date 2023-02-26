@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/XiaohCeale/YinyunDocs#readme",
   "devDependencies": {
+    "@vuepress/plugin-medium-zoom": "^1.9.9",
     "vuepress": "^1.9.9"
   }
 }
