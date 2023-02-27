@@ -8,5 +8,5 @@ actionLink: null
 ---
 
 ::: slot footer
-Copyright © 2022-2023 [YinyunStudio](https://www.yinyuns.top/). Built with [Docusaurus](https://vuepress.vuejs.org/).
+Copyright © 2022-2023 [YinyunStudio](https://www.yinyuns.top/). Built with [VuePress](https://vuepress.vuejs.org/).
 :::
