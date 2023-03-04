@@ -37,7 +37,8 @@ module.exports = {
               title: '使用指南',
               children: [
                 ['use-guide/create-account/', '创建账号'],
-                ['use-guide/select-skin/', '选择皮肤']
+                ['use-guide/select-skin/', '选择皮肤'],
+                ['use-guide/launcher-setup/', '启动器设置']
                 ]
               }
             ],
