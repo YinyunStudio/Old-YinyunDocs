@@ -13,14 +13,10 @@ module.exports = {
     plugins: {
         '@vuepress/medium-zoom': true,
         '@vuepress/last-updated': {
-            transformer: (timestamp, lang) => {
+            transformer: (timestamp) => {
             const moment = require('moment')
             moment.locale('zh-cn')
-            if ( Date.now() - timestamp >= 604800000 ) {
-                return moment(timestamp).format('LL'); 
-            } else {
-                return moment(timestamp).fromNow();
-            }
+            return moment(timestamp).format('LL');
             }
         }
     },
@@ -35,12 +31,19 @@ module.exports = {
 
         sidebar: {
             '/yinyunskin/': [
-              ['', '阴云皮肤'],
-              ['use-guide/', '使用指南']
+                ['', '阴云皮肤'],
+
+              {
+              title: '使用指南',
+              children: [
+                ['use-guide/create-account/', '创建账号'],
+                ['use-guide/select-skin/', '选择皮肤']
+                ]
+              }
             ],
       
             '/twobluecube/': [
-              ['', '渐蓝方块']
+                ['', '渐蓝方块']
             ],
 
             '/about/': [
