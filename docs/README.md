@@ -7,6 +7,9 @@ actionText: null
 actionLink: null
 ---
 
+
+
 ::: slot footer
-Copyright © 2022-2023 [YinyunStudio](https://www.yinyuns.top/). Built with [VuePress](https://vuepress.vuejs.org/).
+Built with [VuePress](https://vuepress.vuejs.org/), Deployed by [Netlify](https://www.netlify.com/)</br>
+Copyright © 2022-2023 [YinyunStudio](https://www.yinyuns.top/).
 :::
