@@ -1,6 +1,12 @@
 module.exports = {
     title: '阴云文档',
     description: '阴云项目的介绍与帮助文档',
+    
+    locales: {
+        '/': {
+          lang: 'zh-CN',
+        }
+    },
 
 
     head: [
@@ -32,19 +38,27 @@ module.exports = {
         sidebar: {
             '/yinyunskin/': [
                 ['', '阴云皮肤'],
-
-              {
-              title: '使用指南',
-              children: [
-                ['use-guide/create-account/', '创建账号'],
-                ['use-guide/select-skin/', '选择皮肤'],
-                ['use-guide/launcher-setup/', '启动器设置']
-                ]
-              }
+                {
+                    title: '使用指南',
+                    children: [
+                        ['guide/create-account/', '创建账号'],
+                        ['guide/select-skin/', '选择皮肤'],
+                        ['guide/launcher-setup/', '启动器设置']
+                    ]
+                }
             ],
       
             '/twobluecube/': [
-                ['', '渐蓝方块']
+                ['', '渐蓝方块'],
+                // ['/guide/', '教程'],
+                {
+                    title: '教程',
+                    children: [
+                        ['guide/', '进服指南'],
+                        ['guide/java/', 'Java版教程'],
+                        ['guide/bedrock/', '基岩版教程']
+                    ]
+                }
             ],
 
             '/about/': [
