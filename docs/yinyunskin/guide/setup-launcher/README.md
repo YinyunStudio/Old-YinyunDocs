@@ -58,7 +58,7 @@ PCL2中，外置登录的设置是基于版本的<br>
 填入账号密码，并点击`启动游戏`<s>阴云皮肤，启动！</s>
 ![](./PCL2.png)
 
-# XMCL
+## XMCL
 
 打开[用户中心](https://skin.yinyuns.top/user)，将`将此按钮拖动至启动器`拖动至启动器，如下
 <video controls src="./XMCL-v1.mp4"></video>
