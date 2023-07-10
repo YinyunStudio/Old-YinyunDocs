@@ -4,7 +4,7 @@
   "description": "阴云文档",
   "main": "index.js",
   "scripts": {
-    "docs:dev": "set NODE_OPTIONS=--openssl-legacy-provider & vuepress dev docs --temp .temp",
+    "dev": "set NODE_OPTIONS=--openssl-legacy-provider & vuepress dev docs --temp .temp",
     "docs:build": "set NODE_OPTIONS=--openssl-legacy-provider & vuepress build docs"
   },
   "repository": {
