@@ -10,6 +10,6 @@ actionLink: null
 
 
 ::: slot footer
-Built with [VuePress](https://vuepress.vuejs.org/), Deployed by [Netlify](https://www.netlify.com/)</br>
+Thanks [The Docs Team](https://github.com/orgs/YinyunStudio/teams/the-docs-team), All Document Writer and [VuePress](https://vuepress.vuejs.org/), [Netlify](https://www.netlify.com/), [Gethub](https://github.com/).<br>
 Copyright © 2022-2023 [YinyunStudio](https://www.yinyuns.top/).
 :::

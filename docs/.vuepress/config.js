@@ -43,7 +43,7 @@ module.exports = {
                     children: [
                         ['guide/create-account/', '创建账号'],
                         ['guide/select-skin/', '选择皮肤'],
-                        ['guide/launcher-setup/', '启动器设置']
+                        ['guide/setup-launcher/', '设置启动器']
                     ]
                 }
             ],
@@ -54,7 +54,7 @@ module.exports = {
                 {
                     title: '教程',
                     children: [
-                        ['guide/', '进服指南'],
+                        ['guide/', '教程开始'],
                         ['guide/java/', 'Java版教程'],
                         ['guide/bedrock/', '基岩版教程']
                     ]
