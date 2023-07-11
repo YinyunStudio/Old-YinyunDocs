@@ -3,7 +3,7 @@
 如果您已经安装了1.19.10.03的基岩版，请跳至[**第3步**](#_3)
 :::
 ## 1
-下载1.19.1基岩版mc并安装。[Minecraft Bedrock 1.19.10.03](https://mcapks.net/info/MS4xOS4xMC4wMw%3D%3D/7eb89da540f7f49c4f6f75734b935b6f.html)
+下载1.19.1基岩版mc并安装。[Minecraft Bedrock 1.20.1](https://mcapks.net/info/MS4yMC4xLjAy/32e6835e669aa1ffe5fe344c37b6cd7e.html)
 ::: warning 提示
 如下载后无法安装或无法打开(闪退)，请尝试下载32位版
 :::
