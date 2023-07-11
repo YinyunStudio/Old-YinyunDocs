@@ -1,19 +1,24 @@
 # BedRock版教程
-（如果您已经完成了符合条件的BedRock版（1.19.1）的安装和调试，请跳至第 4 步）<br>
-1.在浏览器中访问https://xz.klpbbs.net/down.php?vs=1.19.10.03_64下载1.19.1基岩版mc并安装；
-![000](./1.jpg)
+::: tip 提示
+如果您已经安装了1.19.10.03的基岩版，请跳至[**第3步**](#_3)
+:::
+## 1
+下载1.19.1基岩版mc并安装。[Minecraft Bedrock 1.19.10.03](https://mcapks.net/info/MS4xOS4xMC4wMw%3D%3D/7eb89da540f7f49c4f6f75734b935b6f.html)
+::: warning 提示
+如下载后无法安装或无法打开(闪退)，请尝试下载32位版
+:::
+![000](./1.png)
 ![000](./8.jpg)
-![000](./9.jpg)
-2.打开mc，注册或登录微软账号；
+## 2
+打开mc，注册或登录微软账号；
 ![000](./7.jpg)
 ![000](./10.jpg)
 ![000](./11.jpg)
 ![000](./12.jpg)
-3.在访问[阴云皮肤](https://skin.yinyuns.top/)，并参考[使用指南](/yinyunskin/guide/create-account/)进行注册登录以及皮肤设置等
-![000](./java11.png)
-![000](./java13.png)
-![000](./java12.png)
-4.返回首页，点击“游戏”
+## 3
+访问[阴云皮肤](https://skin.yinyuns.top/)，按照[使用指南](https://docs.yinyuns.top/yinyunskin/guide/create-account)进行阴云皮肤的注册登录
+## 4
+返回首页，点击“游戏”
 ![000](./6.jpg)
 点击“服务器”
 ![000](./5.jpg)
